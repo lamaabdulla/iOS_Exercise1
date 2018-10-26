@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "4b5e81e216f7ef93057fbf1b123b8160"
+build_time: [1540551129, 26252000]
+inputs:
+  "/Users/lama/Desktop/IOS-Exercise/IOS-Exercise/Views/ArticlesTableViewCell.swift": [1540543964, 0]
+  "/Users/lama/Desktop/IOS-Exercise/IOS-Exercise/Models/Article.swift": [1540543959, 0]
+  "/Users/lama/Desktop/IOS-Exercise/IOS-Exercise/Controllers/ViewController.swift": [1540549285, 0]
+  "/Users/lama/Desktop/IOS-Exercise/IOS-Exercise/Controllers/DetailsViewController.swift": [1540548870, 0]
+  "/Users/lama/Desktop/IOS-Exercise/IOS-Exercise/Models/Title.swift": [1540445447, 0]
+  "/Users/lama/Desktop/IOS-Exercise/IOS-Exercise/AppDelegate.swift": [1540142243, 0]

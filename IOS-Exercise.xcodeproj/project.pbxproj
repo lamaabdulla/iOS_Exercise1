@@ -107,8 +107,8 @@
 			children = (
 				3B16FE9021825707001DD52D /* Controllers */,
 				3B16FE88218256F3001DD52D /* Models */,
-				3B16FD2D217CEC23001DD52D /* AppDelegate.swift */,
 				3B16FE8D21825701001DD52D /* Views */,
+				3B16FD2D217CEC23001DD52D /* AppDelegate.swift */,
 				3B16FD31217CEC23001DD52D /* Main.storyboard */,
 				3B16FD34217CEC26001DD52D /* Assets.xcassets */,
 				3B16FD36217CEC26001DD52D /* LaunchScreen.storyboard */,
